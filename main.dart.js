@@ -48588,7 +48588,7 @@ A.atD.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
 A.MK.prototype={
-K(a){var s=null,r=A.L6(a,"AI Assistant"),q=A.jZ(A.Q0(B.NZ,B.b_,s,!1),1,s),p=A.fo(20),o=A.a3(B.c.X(25.5),B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255),n=A.da().$1$color(B.i),m=A.aJ1(s,B.mt,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.da().$1$color(B.jA),"Ask about German laws...",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),l=t.p
+K(a){var s=null,r=A.L6(a,"AI Assistant"),q=A.jZ(A.Q0(B.O0,B.b_,s,!1),1,s),p=A.fo(20),o=A.a3(B.c.X(25.5),B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255),n=A.da().$1$color(B.i),m=A.aJ1(s,B.mt,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.da().$1$color(B.jA),"Ask about German laws...",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),l=t.p
 return A.ts(r,B.cA,A.eO(A.b([q,A.ew(s,A.n6(A.b([A.jZ(new A.FT(m,B.XP,n,B.Wv,B.Ww,!0,s),1,s),A.Pm(s,s,B.M0,s,s,new A.a7z(),s,s,s)],l),B.a4,B.a3,B.ah),B.w,s,s,new A.cI(o,s,s,p,s,s,B.ae),s,80,B.b_,B.KB,s,s,1/0)],l),B.a4,B.a3,B.ah),s)}}
 A.a7z.prototype={
 $0(){},
@@ -48627,7 +48627,7 @@ amH(){switch(this.e.toLowerCase()){case"approved":return A.a3(153,B.cF.n()>>>16&
 case"pending":return A.a3(153,B.fe.n()>>>16&255,B.fe.n()>>>8&255,B.fe.n()&255)
 default:return A.a3(153,B.aP.n()>>>16&255,B.aP.n()>>>8&255,B.aP.n()&255)}}}
 A.Uk.prototype={
-K(a){var s=null,r=A.L6(a,"For users with diverse accessibility needs."),q=A.jZ(A.Q0(B.O_,B.b_,s,!1),1,s),p=A.aDn(s,s,B.fd,s,s,s,s,s,s,s,s,s,B.KF,s,new A.d3(A.fo(20),B.u),s,s,s,s)
+K(a){var s=null,r=A.L6(a,"For users with diverse accessibility needs."),q=A.jZ(A.Q0(B.NZ,B.b_,s,!1),1,s),p=A.aDn(s,s,B.fd,s,s,s,s,s,s,s,s,s,B.KF,s,new A.d3(A.fo(20),B.u),s,s,s,s)
 return A.ts(r,B.cA,A.eO(A.b([q,new A.cy(B.b_,A.aDm(A.cq("Book Appointment",s,s,s,A.da().$1$color(B.i),s,s),new A.aou(this,a),p),s)],t.p),B.a4,B.a3,B.ah),s)},
 amn(a){A.aOO(new A.aot(this),a,t.z)},
 aan(a,b){A.aOO(new A.aoq(b),a,t.z)}}
@@ -107059,15 +107059,15 @@ B.NV=A.b(s(["AM","PM"]),t.s)
 B.pi=A.b(s(["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]),t.s)
 B.NX=A.b(s([B.jc,B.jd]),A.a6("r<A5>"))
 B.NY=A.b(s(["BC","AD"]),t.s)
-B.a34=new A.y9("Hi! I'm BridgeAI Assistant, a proud project developed by Group_4. Ask me about German bureaucracy!",!0,null)
-B.a32=new A.y9("How to apply for a visa?",!1,null)
-B.a33=new A.y9("1. Gather required documents\n2. Fill Visa Form\n3. Visit local office\n\nWould you like me to help you an appointment?",!0,null)
-B.NZ=A.b(s([B.a34,B.a32,B.a33]),t.p)
 B.a4q=new A.zb("Maria Schmidt","English, Arabic","Visa Applications",null)
 B.a4o=new A.zb("Ahmed Khan","Urdu, German","Residence Permits",null)
 B.a4p=new A.zb("Sophie Dubois","French, Spanish","Healthcare Registration",null)
-B.O_=A.b(s([B.a4q,B.a4o,B.a4p]),t.p)
+B.NZ=A.b(s([B.a4q,B.a4o,B.a4p]),t.p)
 B.pj=A.b(s(["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]),t.s)
+B.a34=new A.y9("Hi! I'm BridgeAI Assistant, a proud project developed by Group_4. Ask me about German bureaucracy!",!0,null)
+B.a32=new A.y9("How to apply for a visa?",!1,null)
+B.a33=new A.y9("1. Gather required documents\n2. Fill Visa Form\n3. Visit local office\n\nWould you like me to help you schedule an appointment?",!0,null)
+B.O0=A.b(s([B.a34,B.a32,B.a33]),t.p)
 B.bd=new A.lL(0,"label")
 B.aR=new A.lL(1,"avatar")
 B.c6=new A.lL(2,"deleteIcon")
@@ -107329,7 +107329,7 @@ B.D1=new A.bw(-1,B.M,B.bV,B.cG,5)
 B.vJ=new A.i(0,6)
 B.Do=new A.bw(0,B.M,B.bW,B.vJ,10)
 B.Dw=new A.bw(0,B.M,B.bG,B.c3,18)
-B.O0=A.b(s([B.D1,B.Do,B.Dw]),t.E)
+B.O_=A.b(s([B.D1,B.Do,B.Dw]),t.E)
 B.l1=new A.i(0,5)
 B.D6=new A.bw(-3,B.M,B.bV,B.l1,5)
 B.l2=new A.i(0,8)
@@ -107358,7 +107358,7 @@ B.Sv=new A.i(0,24)
 B.Ds=new A.bw(3,B.M,B.bW,B.Sv,38)
 B.Dl=new A.bw(8,B.M,B.bG,B.vK,46)
 B.Oj=A.b(s([B.D8,B.Ds,B.Dl]),t.E)
-B.R1=new A.co([0,B.pq,1,B.Pf,2,B.NS,3,B.P5,4,B.N7,6,B.O0,8,B.Ns,9,B.NH,12,B.O7,16,B.O6,24,B.Oj],A.a6("co<q,B<bw>>"))
+B.R1=new A.co([0,B.pq,1,B.Pf,2,B.NS,3,B.P5,4,B.N7,6,B.O_,8,B.Ns,9,B.NH,12,B.O7,16,B.O6,24,B.Oj],A.a6("co<q,B<bw>>"))
 B.c0=new A.j(4294968065)
 B.lv=new A.an(B.c0,!1,!1,!0,!1,B.o)
 B.bK=new A.j(4294968066)
