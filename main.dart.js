@@ -48528,8 +48528,8 @@ m=A.aGU(A.ew(r,A.iD(B.bo,A.b([A.wJ(r,new A.Um(150,new A.FD("assets/blob.svg",r,r
 p=A.d0(0,B.f.X(100*B.b.fX(this.f,b)*1000),0)
 return A.mz(r,new A.MH(8,new A.d3(q,B.u),m.WI(new A.SU(r,!0,p,r,r,B.h,B.l4)),r),B.ah,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.avU(a,b),r,r,r,r,r,r)}}
 A.avY.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=this.b<360,g=h?80:90
-g=A.aIV("assets/logo.png",i,h?80:90,g)
+$2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=this.b<360,g=h?30:60
+g=A.aIV("assets/logo.png",i,h?30:60,g)
 s=A.fh(i,i,h?4:8)
 r=t.p
 s=A.ls(A.b([g,s,A.j2(A.cq("BridgeAI:\nUI Demo by Group_4",2,B.aQ,i,A.da().$3$color$fontSize$fontWeight(B.i,h?14:18,B.d0),i,i),1,i)],r),B.a3,B.a0,B.af)
